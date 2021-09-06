@@ -6,6 +6,7 @@ export const Container = styled.aside`
     height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     padding: ${theme.paddings.xlarge};
     padding-top: 0;
   `}
